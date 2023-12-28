@@ -1,0 +1,81 @@
+SDG's
+
+That's a great question. The Sustainable Development Goals (SDGs) are a set of 17 goals that aim to achieve a better and more sustainable future for all¹. Some of the SDGs that are relevant to Transportation Management and Agricultural Sectors in the Philippines are:
+
+- **SDG 2: Zero Hunger**: This goal seeks to end hunger, achieve food security and improved nutrition, and promote sustainable agriculture². You can work on projects that improve the productivity and income of small-scale farmers and fishers, reduce food losses and waste, and enhance the resilience of agricultural systems to climate change and disasters².
+- **SDG 8: Decent Work and Economic Growth**: This goal aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all². You can work on projects that improve the transport infrastructure and services, facilitate trade and market access, and create more quality jobs in the transport and agriculture sectors³⁴.
+- **SDG 9: Industry, Innovation and Infrastructure**: This goal strives to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation². You can work on projects that use innovative technologies and solutions to enhance the efficiency and sustainability of transport and agriculture systems, such as IoT, AI, smart shipping, and MaaS³⁴.
+- **SDG 11: Sustainable Cities and Communities**: This goal aims to make cities and human settlements inclusive, safe, resilient and sustainable². You can work on projects that improve urban transport, reduce congestion and pollution, and promote public transport and non-motorized modes of transport³.
+- **SDG 12: Responsible Consumption and Production**: This goal seeks to ensure sustainable consumption and production patterns². You can work on projects that implement the Philippine Action Plan for Sustainable Consumption and Production (PAP4SCP), which covers various sectors including transport and agriculture⁵.
+- **SDG 13: Climate Action**: This goal aims to take urgent action to combat climate change and its impacts². You can work on projects that reduce greenhouse gas emissions from transport and agriculture, increase the use of renewable energy sources, and adapt to the effects of climate change on transport and agriculture systems³⁴.
+
+These are some of the possible SDGs that you can align your project with. Remember, the goal of these projects should be to improve the efficiency, effectiveness, and security of the transportation and agricultural systems, while also contributing to the social and environmental well-being of the people and the planet. Good luck with your project! 😊
+
+Source: Conversation with Bing, 12/26/2023
+(1) FAO Philippines Sustainable Development Goals - Food and Agriculture .... https://www.fao.org/3/i6756e/i6756e.pdf.
+(2) The 17 Sustainable Development Goals - SDGs - Philippines. https://sdg.neda.gov.ph/sdgs/.
+(3) Philippines: Transport Sector Assessment, Strategy, and Road Map. https://www.adb.org/documents/philippines-transport-sector-assessment-strategy-and-road-map.
+(4) Transform Production Sectors to Generate More Quality Jobs. https://pdp.neda.gov.ph/wp-content/uploads/2023/07/Chapter-05.pdf.
+(5) Philippine Action Plan for Sustainable Consumption and ... - SDGs. https://sdg.neda.gov.ph/philippine-action-plan-for-sustainable-consumption-and-production-pap4scp/.
+
+
+Common  problem in the agricultural transportation in the philippines
+
+- https://www.transportify.com.ph/agriculture-supply-chain-challenges-and-opportunities-in-the-philippines/#:~:text=What%20Are%20The%20Challenges%20in%20the%20Agriculture%20Supply,...%204%20Environmental%20and%20Climate%20Change%20Concerns%20
+
+
+Algorithms
+
+There are many possible algorithms that you can use in a system that combines a Transportation Management System (TMS) application with an agricultural transportation service. Here are some examples:
+
+Routing algorithms: These algorithms can help you find the optimal routes for transporting agricultural products from farms to markets or customers, while minimizing the distance, time, cost, and environmental impact. Some examples of routing algorithms are Dijkstra’s algorithm, A* algorithm, Ant Colony Optimization, and Genetic Algorithm12.
+Scheduling algorithms: These algorithms can help you allocate the resources and tasks for the transportation system, such as vehicles, drivers, loading and unloading times, and delivery windows. Some examples of scheduling algorithms are First Come First Serve, Shortest Job First, Earliest Due Date, and Priority Scheduling34.
+Classification algorithms: These algorithms can help you categorize the agricultural products based on their quality, quantity, type, and destination. Some examples of classification algorithms are K-Nearest Neighbors, Decision Trees, Support Vector Machines, and Neural Networks5 .
+Clustering algorithms: These algorithms can help you group the agricultural products or customers based on their similarity or proximity. Some examples of clustering algorithms are K-Means, Hierarchical Clustering, Density-Based Spatial Clustering of Applications with Noise, and Fuzzy C-Means .
+These are some of the algorithms that you can use in your system. You can also combine or modify them according to your specific needs and objectives. I hope this helps you with your project. 
+
+
+Background of developing a system
+
+- https://procoders.tech/blog/how-to-develop-logistics-software/
+- https://softwareconnect.com/logistics/
+- https://www.goodfirms.co/logistics-software/blog/best-free-open-source-logistics-software
+- https://www.netsuite.com/portal/industries/transportation-logistics.shtml
+
+
+project ideas:
+
+Absolutely, combining a Transportation Management System (TMS) application with an agricultural transportation service can be a great idea. Here are some ways you could do this:
+
+Real-Time Tracking: Develop a system that tracks transport from pick-up to delivery, using trucks’ telematics systems1. It can provide customized delay notifications and a dynamic Estimated Time of Arrival (ETA). This can be used for all transportation, ranging from grain transport to fertilizer1.
+
+Integration with ERP Solutions: The TMS can be integrated with Enterprise Resource Planning (ERP) solutions to ensure safe and compliant transportation, control transportation costs, and track carrier performance1.
+
+IoT in Agriculture: You can enhance the agricultural system and agro-food transportation management using the Internet of Things (IoT)2. IoT can help in tracking the temperature of the product being shipped and updating the status on the site page, ensuring the supplier’s on-time distribution of the product2.
+
+Rural Transport Service: A transport service can enable more efficient farm operations and access to markets from farm to village and/or from rural to urban areas3. This can be a critical support factor in developing and enabling smallholders3.
+
+Role of Transport in Agriculture: The main role of transport is to deliver agricultural products from farms to markets and to cities worldwide4. Correct logistics is the key to managing the assets or goods from the point of origin to the consumers4.
+
+Remember, the goal of these projects should be to improve the efficiency, effectiveness, and security of the transportation system. Good luck with your project! 😊
+
+Goal of Project: 
+- Modernize the TMS 
+- Make a real time tracking for trucks and monitoring the quality assurance of the crops during transportation
+- Make a secure database management system 
+- Use Algorithm for maximum efficiency and effecctiveness
+- Make a data driven decision for agricultural logistics
+
+Sample UI/UX output 
+= https://www.youtube.com/watch?v=txjVLe6cuhI&t=6s
+= https://www.youtube.com/watch?v=VhX4pAzAWuA
+= https://www.youtube.com/watch?v=vJX2W3I1_8o
+
+
+
+Step by Step implementation and application in making the system
+1.) Research and Planning
+2.) Process Flow chart & SDLC
+3.) build application using 
+4.) Building a sample data and  test cases for application
+5.) apply API and AI for IoT (image processing & quality maintenance and control monitoring)
